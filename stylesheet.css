@@ -5,6 +5,13 @@ body {
   flex-direction: column;
 }
 
+#page {
+  background-color: rgba(108, 206, 255, 0.780);
+  height: 100%;
+  margin-top: 80px;
+  padding: 20px;
+}
+
 #myVideo {
   position: fixed;
   right: 0;
