@@ -1,3 +1,10 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-directions: center;
+}
+
 #myVideo {
   position: fixed;
   right: 0;
@@ -12,3 +19,4 @@
   width: 100%;
   height: 100%;
 }
+
