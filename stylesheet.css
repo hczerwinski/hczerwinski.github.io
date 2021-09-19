@@ -2,7 +2,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-directions: center;
+  flex-direction: column;
 }
 
 #myVideo {
