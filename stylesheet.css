@@ -5,3 +5,9 @@
   min-width: 100%;
   min-height: 100%;
 }
+
+#main {
+  positon: fixed;
+  bottom: 0;
+  width: 100%;
+}
